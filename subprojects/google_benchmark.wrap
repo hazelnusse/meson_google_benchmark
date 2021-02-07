@@ -1,0 +1,5 @@
+ [wrap-file]
+directory = benchmark-1.5.2
+source_filename = benchmark-1.5.2.zip
+source_hash = 21e6e096c9a9a88076b46bd38c33660f565fa050ca427125f64c4a8bf60f336b
+patch_directory = benchmark-1.5.2
